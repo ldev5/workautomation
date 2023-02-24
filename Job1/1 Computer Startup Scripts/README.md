@@ -1,0 +1,1 @@
+Startup scripts are intended to shorten the amount of time spent opening/logging into websites and software needed for the day, as well as complete it with the least amount of input from myself possible.
